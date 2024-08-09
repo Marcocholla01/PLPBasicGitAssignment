@@ -1,3 +1,4 @@
+
 ---
 
 # Hands-On Assignment: Basic Git and GitHub Workflow
@@ -121,5 +122,3 @@ Familiarize myself with the basic workflow of creating a GitHub repository, conn
   6. Pushed the changes to GitHub.
   7. Verified the presence of `hello.txt` and the commit message on GitHub.
   ```
-
-Feel free to adjust the instructions as needed based on my specific setup or additional requirements!
